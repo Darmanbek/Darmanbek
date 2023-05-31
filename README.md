@@ -1,6 +1,6 @@
-# Hi, I'm a Frontend Developer and Python Developer! 👋
+# Hi developer, I'm a developer too!! 👋
 
-Hello! My name is Darmambek, and I am a frontend developer with experience in creating user-friendly web interfaces. I am passionate about web technologies and always strive to build great web applications. Currently, I am also delving into Python, aiming to explore the fields of artificial intelligence and data science.
+Hey there! My name is Darmambek, and I'm a frontend developer with experience in crafting user-friendly web interfaces. I'm passionate about web technologies and always strive to create exceptional web applications. I'm also an Android app developer with a background in creating educational apps and utilities. Currently, I'm diving into Python, aiming to explore the realms of artificial intelligence and data science.
 
 ## My Skills
 - HTML5 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" height="20">
