@@ -18,4 +18,4 @@ Hey there! My name is Darmanbek, and I'm a frontend developer with experience in
 - Email: pahratdinodarman@gmail.com <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="20" height="20">
 - Telegram: @Paxratdinov_Darman <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/80px-Telegram_2019_Logo.svg.png" width="20" height="20">
 
-Thanks for checking out my profile. I'm totally up for discussing collaboration opportunities or just having a chat about web development. Welcome to the realm of frontend development and programming as a whole!
+Thanks for stopping by my profile. I'm completely ready to discuss collaboration opportunities or simply have a chat about web development, mobile app development, and Python. Welcome to the world of development and programming as a whole!
