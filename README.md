@@ -1,22 +1,22 @@
+# Hi, I'm a Frontend Developer and Python Developer! 👋
 
+Hello! My name is Darmambek, and I am a frontend developer with experience in creating user-friendly web interfaces. I am passionate about web technologies and always strive to build great web applications. Currently, I am also delving into Python, aiming to explore the fields of artificial intelligence and data science.
 
-Hi there, I'm a Frontend Developer! 👋
+## My Skills
 
-Hello! My name is Arzubek, and I'm a frontend developer with experience in creating user-friendly web interfaces. I'm passionate about web technologies and always strive to build great web applications.
+- HTML5 ![HTML5 Icon](https://example.com/html5-icon.png)
+- CSS3 and preprocessors (e.g., Sass, Less) ![CSS3 Icon](https://example.com/css3-icon.png)
+- JavaScript (including ES6+) ![JavaScript Icon](https://example.com/javascript-icon.png)
+- Frameworks and libraries (e.g., React, Vue.js) ![Frameworks Icon](https://example.com/frameworks-icon.png)
+- Responsive and mobile-oriented web development
+- Java ![Java Icon](https://example.com/java-icon.png)
+- Kotlin ![Kotlin Icon](https://example.com/kotlin-icon.png)
+- Python (Junior) ![Python Icon](https://example.com/python-icon.png)
+- Version control with Git ![Git Icon](https://example.com/git-icon.png)
 
-My Skills
+## Contact
 
-    HTML5 <img src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png"/>
-    CSS3 and Preprocessors (e.g., Sass, Less) CSS3
-    JavaScript (including ES6+) JavaScript
-    Frameworks and Libraries (e.g., React, Vue.js) Frameworks
-    Responsive and Mobile-First Web Development Responsive
-    Build Tools (e.g., Webpack, Gulp) Build Tools
-    Version Control with Git Git
+- Email: pahratdinodarman@gmail.com
+- Telegram: @PaxratdinoDarman
 
-Contact
-
-    Email: pahratdinovdarman@gmail.com
-    Telegram: @PaxratdinovDarman
-
-Thank you for visiting my profile. I'm open to discussing any collaboration opportunities or just having a conversation about web development. Welcome to the world of frontend development!
+Thank you for visiting my profile. I am open to discussing any collaboration opportunities or simply having a conversation about web development. Welcome to the world of frontend development and programming in general!
