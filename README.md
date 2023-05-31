@@ -15,7 +15,7 @@ Hello! My name is Darmambek, and I am a frontend developer with experience in cr
 
 ## Contact
 
-- Email: pahratdinodarman@gmail.com
-- Telegram: @Paxratdinov_Darman
+- Email: pahratdinodarman@gmail.com <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="20" height="20">
+- Telegram: @Paxratdinov_Darman <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/telegram/telegram-original.svg" width="20" height="20">
 
 Thank you for visiting my profile. I am open to discussing any collaboration opportunities or simply having a conversation about web development. Welcome to the world of frontend development and programming in general!
