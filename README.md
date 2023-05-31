@@ -1,4 +1,4 @@
-# Hi developer, I'm a developer too!! 👋
+# Hey developer, guess what? I'm a developer too!! 👋
 
 Hey there! My name is Darmambek, and I'm a frontend developer with experience in crafting user-friendly web interfaces. I'm passionate about web technologies and always strive to create exceptional web applications. I'm also an Android app developer with a background in creating educational apps and utilities. Currently, I'm diving into Python, aiming to explore the realms of artificial intelligence and data science.
 
