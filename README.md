@@ -4,7 +4,7 @@ Hello! My name is Darmambek, and I am a frontend developer with experience in cr
 
 ## My Skills
 
-- HTML5 ![HTML5 Icon]([https://example.com/html5-icon.png](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg))
+- HTML5 ![HTML5 Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
 - CSS3 and preprocessors (e.g., Sass, Less) ![CSS3 Icon](https://example.com/css3-icon.png)
 - JavaScript (including ES6+) ![JavaScript Icon](https://example.com/javascript-icon.png)
 - Frameworks and libraries (e.g., React, Vue.js) ![Frameworks Icon](https://example.com/frameworks-icon.png)
